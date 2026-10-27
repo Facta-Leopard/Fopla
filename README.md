@@ -39,16 +39,19 @@ ForgePlay is distributed under the GPL. Fopla's terms apply only to rights that 
 
 Maintaining Fopla in a separate repository does not, by itself, determine the licensing obligations of a combined distribution.
 
-## Requesting permission
+## Permission and attribution
 
-Contact **shteosis@gmail.com** before use. Include:
+Fopla is proprietary software for which no general permission to use is granted. Subject to the rights preserved in LICENSE.md, prior written authorization from Facta-Leopard or an authorized representative is required before use.
 
-- Your name or organization.
-- The version or revision you intend to use.
-- The intended purpose and manner of use.
-- Whether you intend to modify, integrate, or redistribute Fopla.
+Valid online agreements, electronically signed agreements, and authorizations communicated through electronic documents such as email are recognized according to the requirements of LICENSE.md and the scope of the authorization. No duplicate permission request is required for use already validly authorized.
 
-Wait for explicit written authorization from the copyright holder or an authorized representative. Permission is limited to the scope stated in that authorization.
+Providing attribution or a license notice does not itself grant permission to use, modify, or distribute Fopla.
+
+New authorizations will expressly specify conditions for preserving existing notices, accurately identifying origin and authorship, and identifying modifications. The contractual conditions in Section 6 of LICENSE.md apply within the scope of an authorization that expressly incorporates that section and under which those conditions are validly agreed. Existing valid rights and authorizations are not retroactively changed.
+
+If your intended use requires permission and is not covered by an existing valid authorization, contact **shteosis@gmail.com** with your name or organization, the materials and version involved, the intended purpose, and the specific manner of use.
+
+See [LICENSE.md](LICENSE.md) for the detailed terms.
 
 ## License
 
